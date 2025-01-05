@@ -4,9 +4,7 @@
 
 - <b>Project for Course Careers</b>
   - [Connecting to a Windows 10 Virtual Machine through Remote Desktop Protocol (RDP)](https://github.com/Vic-F-Tech/GitHub-Project-for-Course-Careers)
-  - <br />
 - <b>osTicket (Help Desk Ticketing System) *** IN PROGRESS, NOT COMPLETED ***</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-  - <br />
+  - [osTicket: Ticket Lifecycle Examples]
 - <b>Microsoft Azure *** IN PROGRESS, NOT COMPLETED ***</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs]
