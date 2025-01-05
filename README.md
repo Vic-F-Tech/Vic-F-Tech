@@ -1,4 +1,4 @@
-<h1>Hello, my name is Victor, an aspiring IT Professional!</h1>
+<h1>Hello, my name is <a href="https://www.linkedin.com/in/victor-fix-7b5085345/">Victor</a>, an aspiring IT Professional!</h1>
 
 <h2>Information Technology Projects:</h2>
 
